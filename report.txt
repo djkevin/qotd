@@ -1,0 +1,7 @@
+        Quote report
+        -----------------------
+        Total: 4
+        Number of quotes by author:
+        
+  Peter Ledbrook      2
+  Glen Smith          2

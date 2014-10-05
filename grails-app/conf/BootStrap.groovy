@@ -8,6 +8,8 @@ class BootStrap {
         new qotd.Quote (author:"Chinese proverb", content:"If you are planning for a year, sow rice; if you are planning for a decade, plant trees; if you are planning for a lifetime, educate people").save()
 
         assert Quote.count() == 3
+
+        DataGenerator.createSampleData()
     }
     def destroy = {
     }
